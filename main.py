@@ -56,7 +56,7 @@ def main():
       print("\nThank you. Toodles!")
       quit()
     else:
-      print("*** INVALID INPUT ***")
+      print("**** INVALID INPUT ****")
   return
 
 
